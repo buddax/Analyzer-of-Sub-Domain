@@ -1,8 +1,9 @@
 #!/usr/bin/env python
-__author__ = ['Nimrod Levy', 'Tomer Zait']
+__author__ = ['The Cyber Heroez']
 __license__ = 'GPL v3'
 __version__ = '0.1'
-__email__ = ['El3ct71k@gmail.com', 'TzAnAnY@Gmail.com']
+__email__ = ['haxor.marsundung@gmail.com']
+__copyrights__ = ['@TCH 2014']
 
 from gevent.monkey import patch_all
 patch_all()
